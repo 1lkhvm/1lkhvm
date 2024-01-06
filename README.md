@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilham</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1lkhvm&label=Profile%20views&color=153d56&style=flat" alt="1lkhvm" /> </p>
 
